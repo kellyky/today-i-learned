@@ -1,0 +1,10 @@
+== About
+
+This is my blog - learnings, daily learnings, points of interest.
+It is also effectively a sister document to my
+https://git.sr.ht/~kotp/KellysKodingKompendium/tree/master[RubyLearning]
+coursework.
+
+.Repository
+This repository is located on GitHub: https://github.com/kellyky/today-i-learned
+

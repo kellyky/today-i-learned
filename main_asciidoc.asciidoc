@@ -1,0 +1,39 @@
+= Blog: Today I Learned (TIL)
+:Author: Kelly Popko
+:Email: <kelpopko@gmail.com>
+:Date: January 2025
+:Revision: 0.0.0a
+:copyright: (C) Copyright 2025 Kelly (Young) Popko
+:publisher: Kelly Popko
+:doctype: book
+:safe-mode-level: 0
+:includes: ../_includes
+ifdef::backend-pdf[]
+:imagesdir: ../images
+endif::[]
+ifdef::backend-html5[]
+:imagesdir: ../images
+endif::[]
+// The data-uri lets us embed the images into the HTML no need to copy the
+// images to the remote source location
+:data-uri:
+:toc: right
+:toclevels: 5
+:catalog_assets:
+:leveloffset: auto
+:icons: font
+:source-code: ../
+:source-highlighter: rouge
+:source-language: ruby
+:sectnums:
+:sectanchors:
+:allow-uri-read:
+
+// Blog Posts
+
+include::./posts/ruby-set-class.asciidoc[]
+
+// 'About' section -- Keep at the bottom
+
+include::./about/about.asciidoc[]
+
