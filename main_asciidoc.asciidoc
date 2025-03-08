@@ -37,3 +37,7 @@ include::./posts/ruby-set-class.asciidoc[]
 
 include::./about/about.asciidoc[]
 
+// Bio
+
+include::./about/bio.asciidoc[]
+

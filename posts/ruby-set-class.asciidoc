@@ -1,0 +1,5 @@
+== Ruby Set Class
+
+Today I learned about a very cool Ruby class: Set.
+
+
